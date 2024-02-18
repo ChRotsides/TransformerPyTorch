@@ -51,6 +51,5 @@ The model and training configurations can be adjusted in the `config.py` file. T
 ## License
 
 This project is open-sourced under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
 
 This `README.md` provides a clear overview of your project, making it accessible to others who may want to understand, use, or contribute to your work. Adjust any sections as needed to fit your project's specifics, such as installation instructions, usage examples, or additional features.
